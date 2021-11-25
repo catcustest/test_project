@@ -1,0 +1,13 @@
+{
+   "sites":{
+      "xkcd":{
+         "base_api_url":"http://xkcd.com"
+      },
+       "kicherchekoi":{
+         "base_api_url":"http://kicherchekoi.com"
+      },
+       "trainline":{
+        "base_api_url":"http://www.trainline.fr"
+      }
+   }
+}

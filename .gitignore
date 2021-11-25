@@ -1,0 +1,7 @@
+.pytest_cache/
+
+
+# Environments
+.venv
+venv/
+test_project/
